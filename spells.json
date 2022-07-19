@@ -1,0 +1,32 @@
+[
+{
+	"name": "Fireball",
+	"range": 3,
+	"base_damage": 4,
+	"scaling": [0, 0, 1.0, 0.1, 0],
+	"cost": {
+		"type": 1,
+		"amount": 2
+	}
+},
+{
+	"name": "Magma Blast",
+	"range": 5,
+	"base_damage": 10,
+	"scaling": [0.2, 0, 1.8, 0.0, 0],
+	"cost": {
+		"type": 1,
+		"amount": 5
+	}
+},
+{
+	"name": "Dig",
+	"range": 1,
+	"base_damage": 0,
+	"scaling": [0, 0, 0, 0, 0],
+	"cost": {
+		"type": 1,
+		"amount": 0
+	}
+}
+]
